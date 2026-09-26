@@ -231,7 +231,7 @@ background-image: linear-gradient(to bottom, rgb(255, 80, 109) 50%, rgb(245, 36,
 
 
 .button-4:active{
-animation: rotate 0.5s ease-out infinite;
+animation: rotate 0.5s ease-out 1;
 
 }
 
