@@ -137,7 +137,7 @@ transition: opacity 0.2s;
 
 }
 
-.submit:hover .submission{
+.submit:active .submission{
    opacity: 1;
 }
 
